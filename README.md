@@ -91,7 +91,3 @@ This will start a local server, and you can view the application in your browser
 ├── index.html          # Main HTML file
 └── package.json        # Project dependencies and scripts
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
