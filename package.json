@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A funny, AI-powered word puzzle game simulating an on-chain experience on the Base network.",
   "private": true,
-  "scripts": {
+  "scripts": {"build": "tsc && vite build",
     "start": "serve .",
     "build": "echo 'Build script can be configured here using a bundler like Vite or Webpack'"
   },
