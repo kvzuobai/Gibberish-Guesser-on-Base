@@ -7,7 +7,7 @@ A funny, AI-powered word puzzle game simulating an on-chain experience on the Ba
 
 ---
 
-![Gibberish Guesser Screenshot](https://storage.googleapis.com/aistudio-hosting/generative-ai-app-builder/6a5f7e7d-7b24-4f1b-8b1b-88a9f24e9b73/gibberish-guesser-screenshot.png)
+![Gibberish Guesser Screenshot]([https://storage.googleapis.com/aistudio-hosting/generative-ai-app-builder/6a5f7e7d-7b24-4f1b-8b1b-88a9f24e9b73/gibberish-guesser-screenshot.png](https://i.postimg.cc/s24sCyRq/Screenshot-2025-10-23-112616.png))
 
 ## 📖 How to Play
 
