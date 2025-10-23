@@ -6,7 +6,6 @@
   "private": true,
   "scripts": {"build": "tsc && vite build",
     "start": "serve .",
-    "build": "echo 'Build script can be configured here using a bundler like Vite or Webpack'"
   },
   "author": "Zuobai",
   "license": "MIT",
